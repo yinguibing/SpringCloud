@@ -1,0 +1,6 @@
+乱码产生的原因：
+
+其中之一是tomcat服务器产生的，基于tomcat的springboot应用可以配置tomcat的编码，或者可以直接使用jetty等服务器。
+
+基于springMVC httpmessageconvert的解决方案
+
